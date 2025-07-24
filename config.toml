@@ -1,4 +1,4 @@
-title = "Sathish Kumar Thiyagarajan"
+title = "GURUPRASATH RENGANATHAN"
 baseURL = "https://example.com/"
 theme = "my-resume"
 languageCode = "en-us"
@@ -8,11 +8,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Madurai, India"
 favicon = "/favicon.ico"
-firstName = "Sathish Kumar"
-lastName = "Thiyagarajan"
-phone = "1-555-555-1234"
+firstName = "GuruPrasath"
+lastName = "Renganathan"
+phone = "8015328633"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
@@ -23,12 +23,13 @@ sections = ["skills","publications","creations","contributions","experience","ed
 [params.google.analytics]
 trackerID = "XX-123446-01"
 
+
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "www.linkedin.com/in/guru-prasath-renganathan"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/guruprasath-renganathan"
 name = "GitHub"
 
 [outputs]

@@ -1,4 +1,4 @@
-# GURUPRASATH-RENGANATHAN.github.io
+# guruprasath-renganathan.github.io
 Profile Page Sample
 
 ## Setup
